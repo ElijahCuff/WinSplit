@@ -43,4 +43,8 @@ Merge Files In Succession, using whatever file binding method you prefer.
 
 
 ### Example using PHP as binder
-https://criminal.ml/webapp/merger2
+https://criminal.ml/webapp/merger2   
+  
+### PHP Binder Project
+https://github.com/WokeWorld/PHP-File-Binder
+
