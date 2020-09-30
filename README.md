@@ -24,10 +24,10 @@ Eventually i got a distributable archive built using the windows version of WinR
     
 This lead me to extract 2 of the 3 stub files that need to be merged in succession,     
    
-1- Start Stub - Main SFX file, Prior to .Ico file   
-2- Prepared .Ico File   
-3- Second Stub - Another Program that is the UI   
-4- Zip Appended with Commamd Comments   
+* 1- Start Stub - Main SFX file, Prior to .Ico file   
+* 2- Prepared .Ico File   
+* 3- Second Stub - Another Program that is the UI   
+* 4- Zip Appended with Commamd Comments   
       
 
 The prepared .ICO file required removing everything before the Key, it took a while to find the Hex Key for all .Ico files, but i finally got the hex search query "key" that defines the Start of the prepared .ico to the end of the file. - I've written the key into a text file in this folder.
