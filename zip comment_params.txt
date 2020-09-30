@@ -1,0 +1,16 @@
+;The comment below contains SFX script commands
+
+Path=%temp%
+Setup=setup.exe
+Setup=setup2.exe
+Silent=1
+Overwrite=1
+Title=Text
+Text
+{
+Description
+}
+License=License
+{
+Test License
+}
