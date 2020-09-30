@@ -40,3 +40,7 @@ The Final Seperation of the archive i couldn't be bothered doing because i was o
     
 ## Building a Test EXE,    
 Merge Files In Succession, using whatever file binding method you prefer.
+
+
+### Example using PHP as binder
+https://criminal.ml/webapp/merger2
